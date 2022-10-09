@@ -11,10 +11,9 @@ Gest-RECOG demonstrates the fabrication of the own fabricated self-powred sensor
 The sensor (W-TENG) is fabricated with the plastic waste material, which can able to carryout numerous biomedical measurements such as arterial pulse , breathing rate , and gait analysis monitoring. Thus, W-TENG integrated with the artificial intellegence has the potential to use in the advanced technological applications such as humonoid robotics, artificial prosthesis, and gesture controlled cars.
 
 ## Pre-Requirements
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following tools\
 #Python 3\
-#MATLAB\
-`
+#MATLAB\`
 ## Libraries
  - [Pandas](https://pandas.pydata.org/)
  - [Numpy](https://numpy.org/)

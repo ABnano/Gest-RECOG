@@ -70,7 +70,7 @@ trainedClassifier.predictFcn = @(x) svmPredictFcn(predictorExtractionFcn(x));
 
 % Add additional fields to the result struct
 trainedClassifier.ClassificationSVM = classificationSVM;
-trainedClassifier.About = 'This struct is a trained model exported from Classification Learner R2020a.';
+trainedClassifier.About = '';
 trainedClassifier.HowToPredict = sprintf('To make predictions on a new predictor row matrix, X, use: \n  yfit = c.predictFcn(X) \nreplacing ''c'' with the name of the variable that is this struct, e.g. ''trainedModel''. \n \nX must contain exactly 1038 rows because this model was trained using 1038 predictors. \nX must contain only predictor rows in exactly the same order and format as your training \ndata. Do not include the response row or any rows you did not import into the app. \n \nFor more information, see <a href="matlab:helpview(fullfile(docroot, ''stats'', ''stats.map''), ''appclassification_exportmodeltoworkspace'')">How to predict using an exported model</a>.');
 
 % Extract predictors and response

@@ -48,6 +48,5 @@ if (false)
     y = myNeuralNetworkFunction(x);
 end
 if (false)
-    % Generate a Simulink diagram for simulation or deployment with.
-    gensim(net);
+
 end

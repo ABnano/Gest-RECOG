@@ -2,7 +2,9 @@
 # Gest-RECOG
 This project is all about the different types of gesture recognitions by using machine learning/deep learning algorithams.
 
-![dso](https://user-images.githubusercontent.com/72018919/194757500-6738d113-ab3e-4c5f-8233-2088e0704dce.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72018919/194757500-6738d113-ab3e-4c5f-8233-2088e0704dce.gif" />
+</p>
 
 ## Abstract
 Gest-RECOG demonstrates the fabrication of the own fabricated self-powred sensor and their integration with the different machine learning\deep learning neural networks for classifies the different gestures. We have used numerous algorithms such as unsupervised k-means clusstering and unsupervised k-nearest neibor (KNN), support vector machine (SVM), deep neural network (DNN) and pattern recognition, which gives the classification accuracy of ~97%, ~93%, ~94%, 98%, respectively.

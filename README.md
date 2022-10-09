@@ -1,9 +1,9 @@
 
 # Gest-RECOG
-This project is all about the different types of gesture recognitions by using machine learning/deep learning algorithams.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/72018919/194757500-6738d113-ab3e-4c5f-8233-2088e0704dce.gif" />
+This project is all about the different types of gesture recognitions by using machine learning/deep learning algorithams.
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/72018919/194771434-fc38a06f-89f7-4780-9201-11ee67e32dcd.gif" width="425" height="300"/> <img src="https://user-images.githubusercontent.com/72018919/194770063-1911e398-f873-4257-888e-6bd92dcf5c80.gif" width="425" height="300"/>
 </p>
 
 ## Abstract
